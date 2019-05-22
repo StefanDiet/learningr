@@ -4,4 +4,4 @@
 R and Git and fun :o(
 
 
-for R stuff..
+for R stuff...
